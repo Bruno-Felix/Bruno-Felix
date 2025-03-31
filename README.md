@@ -1,4 +1,5 @@
-### Olá, me chamo Bruno Félix 👋
+## Olá, me chamo Bruno Félix 👋
+### Desenvolvedor Full Stack
 
 Sou desenvolvedor Full Stack com mais de 4 anos de experiencia com desenvolvimento de aplicações web. Trabalhei principalmene com frameworks em javascript para o frontend e Django (python) para o backend.
 
