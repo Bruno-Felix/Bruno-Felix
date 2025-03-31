@@ -75,6 +75,9 @@ Além de codificar, me envolvo ativamente na concepção do produto, questionand
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<br/>
+<br/>
+
 ### 📊 Estatísticas
 
 <p>
